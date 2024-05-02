@@ -1,0 +1,1 @@
+This Repository consists of python codes and processes that may help reduce your work of writing code.
